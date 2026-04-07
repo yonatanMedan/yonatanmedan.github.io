@@ -1,0 +1,9 @@
+title: Yonatan Medan
+description: A blog about programming, mindfulness, and the space between.
+baseurl: ""
+url: "https://yonatanmedan.github.io"
+
+markdown: kramdown
+theme: minima
+
+permalink: /blog/:title/
