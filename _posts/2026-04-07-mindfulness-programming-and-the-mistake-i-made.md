@@ -2,6 +2,7 @@
 layout: post
 title: "Mindfulness, Programming, and the Mistake I Made"
 date: 2026-04-07
+description: "I tried to bring mindfulness into programming and thought I was failing. Measuring my attention revealed the real issue — I was using the wrong model for what mindfulness should feel like while coding."
 ---
 
 Mindfulness made me a better listener, a more present parent, and more attentive in meetings.
